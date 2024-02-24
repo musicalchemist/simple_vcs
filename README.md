@@ -18,26 +18,29 @@ This project is a Python-based simple version control system (VCS) designed to d
 
 1. Clone this repository to your local machine using:
 
-   ````sh
-   git clone https://github.com/musicalchemist/simple-vcs.git```
+   ```sh
+   git clone https://github.com/musicalchemist/simple-vcs.git
 
-   ````
+   ```
 
 2. Navigate into the cloned directory:
 
-   ````sh
-   cd simple-vcs```
-   ````
+   ```sh
+   cd simple-vcs
+   ```
 
 ### Usage
 
 1. Initialize the VCS on a directory:
+
    `python vcs.py init`
 
 2. Create a snapshot of the current state of the directory:
+
    `python vcs.py snapshot`
 
 3. Revert to a specific snapshot using its hash:
+
    `python vcs.py revert <snapshot_hash>`
 
 ### How It Works
