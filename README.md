@@ -19,14 +19,14 @@ This project is a Python-based simple version control system (VCS) designed to d
 1. Clone this repository to your local machine using:
 
    ```sh
-   git clone https://github.com/musicalchemist/simple-vcs.git
+   git clone https://github.com/musicalchemist/simple_vcs.git
 
    ```
 
 2. Navigate into the cloned directory:
 
    ```sh
-   cd simple-vcs
+   cd simple_vcs
    ```
 
 ### Usage
